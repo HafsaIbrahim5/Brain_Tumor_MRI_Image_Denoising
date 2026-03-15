@@ -9,7 +9,7 @@
 
 **A deep learning–powered Brain Tumor MRI image denoising system using a Convolutional Autoencoder.**
 
-[🔬 Live Demo](#) · [📓 Notebook](image-denoising.ipynb) · [📊 Results](#results)
+[🔬 Live Demo](https://35bk9xhgboog7xkq8cmtcj.streamlit.app/) · [📓 Notebook](image-denoising.ipynb) · [📊 Results](#results)
 
 </div>
 
